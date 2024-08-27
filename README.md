@@ -17,8 +17,8 @@ So at least it asked me for permission!
 
 To install bluesnarfer:
 ```
-git clone https://github.com/kimbo/bluesnarfer.git
-cd bluesnarfer
+git clone https://github.com/webdragon63/Bluesnarfer.git
+cd Bluesnarfer
 make
 ```
 
