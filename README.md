@@ -67,15 +67,6 @@ Then I looked through the output for something that looks like it might let you 
 When in doubt, just check all of the channels listed.
 (Channel 2 worked on my Samsung Galaxy s7, see demo below).
 
-# Demo
-
-Here's a short demo of bluesnarfer I did as part of a school project - https://asciinema.org/a/6e1rjk7V3eJL1qoA3kJRUKfh1.
-
-# License
-License is GPL-2+.
-
-License and copyright info can be found in [debian/copyright](
-https://github.com/kimbo/bluesnarfer/blob/kali/master/debian/copyright).
 
 
 # Original README
