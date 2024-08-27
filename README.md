@@ -8,6 +8,11 @@ To my knowledge, all modern devices have at least some kind of protection agains
 For example, I tested this with a Samsung Galaxy s7, and it prompted be to give permission to bluesnarfer to read my contacts, make calls, etc.
 So at least it asked me for permission!
 
+ # DEPENDENCIES
+
+* [Bluez][3]
+  * On Debian/Ubuntu/Kali `sudo apt install -y libbluetooth-dev`.
+
 # Installation
 
 To install bluesnarfer:
